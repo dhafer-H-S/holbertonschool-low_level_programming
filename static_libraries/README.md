@@ -1,0 +1,1 @@
+this file is contening all the static libraries

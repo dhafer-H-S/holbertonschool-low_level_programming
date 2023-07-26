@@ -1,0 +1,1 @@
+thid file is for search algorithms tasks
